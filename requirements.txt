@@ -4,3 +4,4 @@ keras-facenet==0.3.2
 opencv-python-headless
 numpy
 pillow
+scipy
