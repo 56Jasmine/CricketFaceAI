@@ -20,10 +20,6 @@ YuNet face detection
 Cosine similarity
 Streamlit interface
 
-![Uploading image.png…]()
-
-
-
 ## Features
 
 - Face detection using YuNet
