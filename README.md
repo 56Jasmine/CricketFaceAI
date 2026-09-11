@@ -186,15 +186,16 @@ CricketFaceAI/
     ├── model.py
     ├── train.py
     └── evaluate.py
-How to Run
+**How to Run**
 1. Create and activate the environment
-conda activate cricketface
+   conda activate cricketface
 2. Install dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 3. Run the Streamlit application
-streamlit run app.py
+   streamlit run app.py
+   The application will open in the browser
 
-The application will open in the browser  Future Improvements
+**Future Improvements**
 Increase the number of training images per player
 Add more Indian cricketers
 Improve performance on difficult lighting and side-profile images
