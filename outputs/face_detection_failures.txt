@@ -1,0 +1,8 @@
+data/processed/Rohit Sharma/Image_21.jpg
+data/processed/Suryakumar Yadav/Image_11.jpg
+data/processed/Suryakumar Yadav/Image_25.jpg
+data/processed/Sachin Tendulkar/Image_8.jpg
+data/processed/M.S. Dhoni1/Image_25.jpg
+data/processed/Yuvraj Singh1/Image_5.jpg
+data/processed/Yuvraj Singh1/Image_24.jpg
+data/processed/Jasprit Bumrah/Image_23.jpg

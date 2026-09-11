@@ -1,0 +1,6 @@
+streamlit
+tensorflow==2.21.0
+keras-facenet==0.3.2
+opencv-contrib-python==5.0.0.93
+numpy
+pillow
