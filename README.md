@@ -7,6 +7,22 @@ CricketFace AI is a computer vision system that identifies selected Indian crick
 The system uses face detection, deep face embeddings, and cosine similarity to match an input face with known player representations.
 
 ---
+Key Result
+
+91.67% Test Accuracy (44/48 images)
+
+And mention:
+
+10 Indian cricketer classes
+242 detected face images
+FaceNet 512-dimensional embeddings
+YuNet face detection
+Cosine similarity
+Streamlit interface
+
+![Uploading image.png…]()
+
+
 
 ## Features
 
